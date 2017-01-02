@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnitTestCaseDemo</string>
+    <string name="unit_test_case_demos">Unit Test Case Demos</string>
+    <string name="text_convert_time">Convert Time</string>
+    <string name="tv_time_stamp_format">"Time in timestamp format : "</string>
+    <string name="tv_formatted_time">"Formatted Time in : "</string>
+</resources>
